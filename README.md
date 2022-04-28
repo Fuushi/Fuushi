@@ -10,11 +10,10 @@ my_languages = [
     "Rust"
 ]
 
-string[] array = [
-    featured projects!
-    Neeko bot,
-    Save Slot [indev],
-    Twitch Hue sync,
-    ASCII art generator [old and poorly coded],
-    Spacial Audio Player
+string[] featuredProjects = [
+    "Neeko bot",
+    "Save Slot [indev]",
+    "Twitch Hue sync",
+    "ASCII art generator [old and poorly coded]",
+    "Spacial Audio Player"
 ];
