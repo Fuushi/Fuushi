@@ -4,6 +4,7 @@
 
 my_languages = [
     "python",
+    "php"
     "c++",
     "java",
     "Lua",
@@ -11,9 +12,9 @@ my_languages = [
 ]
 
 string[] featuredProjects = [
-    "Neeko bot",
-    "Save Slot [indev]",
-    "Twitch Hue sync",
-    "ASCII art generator [old and poorly coded]",
+    "Kindling",
+    "Pyrender",
+    "Python Sign Board",
+    "Project DAIN",
     "Spacial Audio Player"
 ];
